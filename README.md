@@ -1,6 +1,7 @@
 # hello_world
 
 A new Flutter project.
+by: Rudy Ali Ramadhan - 230444040003.
 
 ## Getting Started
 
