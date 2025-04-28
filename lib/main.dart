@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'basic widget/text_widget.dart';
 import 'basic widget/image_widget.dart';
+import 'basic widget/loading_cupertino.dart';
 
 void main() {
   runApp(const MyApp());
@@ -105,7 +106,11 @@ class _MyHomePageState extends State<MyHomePage> {
           // action in the IDE, or press "p" in the console), to see the
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[const MyImageWidget()],
+          children: <Widget>[
+            const MyTextWidget(),
+            // const MyImageWidget(),
+            const MyWidget(),
+          ],
         ),
       ),
       floatingActionButton: FloatingActionButton(
