@@ -1,10 +1,12 @@
 # hello_world
 
 A new Flutter project.
+
 by: Rudy Ali Ramadhan - 230444040003.
 
 # Changes
 v0.1: imported a text widget to main.
+
 v0.2: imported image: logo.jpg.
 
 ## Getting Started
